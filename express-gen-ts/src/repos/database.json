@@ -1,0 +1,73 @@
+{
+    "personas": [
+        {
+            "id": 1,
+            "nombre": "John",
+            "apellido": "Doe",
+            "email": "johnDoe@gmail.com",
+            "comidasHechas": []
+        }
+    ],
+    "comidas": [
+        {
+            "id": 1,
+            "nombre": "Milanesa",
+            "calorias": 500
+        },
+        {
+            "id": 2,
+            "nombre": "Ensalada",
+            "calorias": 200
+        },
+        {
+            "id": 3,
+            "nombre": "Asado",
+            "calorias": 800
+        },
+        {
+            "id": 4,
+            "nombre": "Empanadas",
+            "calorias": 300
+        },
+        {
+            "id": 5,
+            "nombre": "Locro",
+            "calorias": 600
+        },
+        {
+            "id": 6,
+            "nombre": "Matambre a la pizza",
+            "calorias": 700
+        },
+        {
+            "id": 7,
+            "nombre": "Choripán",
+            "calorias": 500
+        },
+        {
+            "id": 8,
+            "nombre": "Ñoquis",
+            "calorias": 400
+        },
+        {
+            "id": 9,
+            "nombre": "Provoleta",
+            "calorias": 600
+        },
+        {
+            "id": 10,
+            "nombre": "Milanesa a la napolitana",
+            "calorias": 700
+        },
+        {
+            "id": 11,
+            "nombre": "Tarta de carne",
+            "calorias": 400
+        },
+        {
+            "id": 12,
+            "nombre": "Pastelitos",
+            "calorias": 350
+        }
+    ]
+}

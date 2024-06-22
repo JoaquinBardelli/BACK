@@ -1,0 +1,49 @@
+body {
+    padding: 100px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  body .personas-column {
+    display: inline-block;
+    margin-right: 2em;
+    vertical-align: top;
+  }
+  
+  body .personas-column .column-header {
+    padding-bottom: 5px;
+    font-weight: 700;
+    font-size: 1.2em;
+  }
+  
+  
+  /** Add User Column **/
+  
+  body .add-persona-col input {
+    margin-bottom: 10px;
+  }
+  
+  body .add-persona-col #add-persona-btn {
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+  
+  
+  /** Users Display Column **/
+  
+  .email-edit {
+    padding-bottom: 8px;
+  }
+  
+  body .personas-column .persona-display-ele {
+    padding-bottom: 10px;
+  }
+  
+  body .personas-column .persona-display-ele button {
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+  
+  body .personas-column .persona-display-ele .edit-view {
+    display: none;
+  }
+  

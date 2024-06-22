@@ -1,0 +1,49 @@
+body {
+    padding: 100px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  body .comidas-column {
+    display: inline-block;
+    margin-right: 2em;
+    vertical-align: top;
+  }
+  
+  body .comidas-column .column-header {
+    padding-bottom: 5px;
+    font-weight: 700;
+    font-size: 1.2em;
+  }
+  
+  
+  /** Add User Column **/
+  
+  body .add-comida-col input {
+    margin-bottom: 10px;
+  }
+  
+  body .add-comida-col #add-comida-btn {
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+  
+  
+  /** Users Display Column **/
+  
+  .email-edit {
+    padding-bottom: 8px;
+  }
+  
+  body .comidas-column .comida-display-ele {
+    padding-bottom: 10px;
+  }
+  
+  body .comidas-column .comida-display-ele button {
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+  
+  body .comidas-column .comida-display-ele .edit-view {
+    display: none;
+  }
+  
